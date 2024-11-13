@@ -31,9 +31,10 @@
 
 .header__logo {
     display: block;
-    justify-self: center;
+    justify-self: start;
     align-self: center;
     width: 130px;
+    margin-left: 48px;
 }
 
 .header__logo-image {
