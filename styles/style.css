@@ -10,6 +10,7 @@
 .header__links-list {
     display: flex;
     gap: 32px;
+    width: 450px;
 }
   
 .header__links-list-item {
@@ -33,7 +34,7 @@
     justify-self: start;
     align-self: center;
     width: 130px;
-    margin-left: 48px;
+    margin-left: -16px;
 }
 
 .header__logo-image {
@@ -43,7 +44,6 @@
 .header__address {
     justify-self: center;
     font-style: inherit;
-    padding-left: 30px;
 }
   
 .address {
